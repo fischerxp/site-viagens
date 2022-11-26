@@ -1,0 +1,205 @@
+*{
+    background-color: #FBFBFF;
+}
+#logoham{
+    position: absolute;
+    left: 82px;
+    top: -20px;
+    font-size: 48px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #20BF55;
+    font-variation-settings: 'slnt' 0;
+    font-weight: 600;
+
+}
+#logomiau{
+    position: absolute;
+    left: 141px;
+    top: -20px;
+    font-size: 48px;
+    line-height: 20px;
+    color: #0B4F6C;
+    font-variation-settings: 'slnt' 0;
+    font-weight: 600;
+}
+#logowoaf{
+    position: absolute;
+    left: 179px;
+    top: -20px;
+    font-size: 48px;
+    line-height: 20px;
+    color: #01BAEF;
+    font-variation-settings: 'slnt' 0;
+    font-weight: 600;
+}
+#imglogo{
+    position: absolute;
+    width: 72px;
+    height: 56px;
+    left: 5px;
+    top: 12px;
+}
+#ham{
+    position: absolute;
+    width: 44px;
+    height: 6px;
+    left: 288px;
+    top: 20px;
+    background: #20BF55;
+    border-radius: 15px;
+}
+
+#bur{
+    position: absolute;
+    width: 44px;
+    height: 6px;
+    left: 288px;
+    top: 33px;
+    background: #0B4F6C;
+    border-radius: 15px;
+}
+#guer{
+    position: absolute;
+    width: 44px;
+    height: 6px;
+    left: 288px;
+    top: 46px;
+    background: #01BAEF;
+    border-radius: 15px;
+}
+#circulo{
+    position: absolute;
+    width: 173px;
+    height: 173px;
+    left: 85px;
+    top: 110px;
+    background: #D9D9D9;
+    border-radius: 50%;
+}
+#aviao{
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    left: 62px;
+    top: 80px;
+}
+#foto{
+    position: absolute;
+    width: 130px;
+    height: 172.06px;
+    left: 142px;
+    top: 195px;
+}
+#perfil{
+    position: absolute;
+    left: 110px;
+    top: 300px;
+    font-family: 'Inter';
+    font-weight: 732;
+    font-size: 24px;
+    line-height: 29px;
+    background-color: #0B4F6C;
+    color: #FBFBFF;
+}
+#boxperfil{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 75px;
+    top: 318px;
+    background: #0B4F6C;
+    border-radius: 25px;
+}
+#boxum{
+    position: absolute;
+    width: 211px;
+    height: 64px;
+    left: 35px;
+    top: 400px;
+    background: #0B4F6C;
+    border-radius: 25px;
+}
+#grupo{
+    position: absolute;
+    left: 69px;
+    top: 400px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color:#FBFBFF;
+    background-color: #0B4F6C;
+}
+#boxdois{
+    position: absolute;
+    width: 211px;
+    height: 64px;
+    left: 120px;
+    top: 470px;
+    background: #0B4F6C;
+    border-radius: 25px;
+}
+#programadas{
+    position: absolute;
+    left: 135px;
+    top: 470px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color:#FBFBFF;
+    background-color: #0B4F6C;
+}
+#boxtres{
+    position: absolute;
+    width: 211px;
+    height: 64px;
+    left: 35px;
+    top: 540px;
+    background: #0B4F6C;
+    border-radius: 25px;
+}
+#desejo{
+    position: absolute;
+    left: 69px;
+    top: 540px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color:#FBFBFF;
+    background-color: #0B4F6C;
+}
+#boxquatro{
+    position: absolute;
+    width: 211px;
+    height: 64px;
+    left: 120px;
+    top: 610px;
+    background: #0B4F6C;
+    border-radius: 25px;
+}
+#historico{
+    position: absolute;
+    left: 140px;
+    top: 610px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color:#FBFBFF;
+    background-color: #0B4F6C;
+}
+#desconectar{
+    position: absolute;
+    width: 158px;
+    height: 29px;
+    left: 120px;
+    top: 710px;
+    background: #D9806C;
+    border-radius: 25px;
+    border: none;
+    display:inline-block;
+	cursor:pointer;
+}
