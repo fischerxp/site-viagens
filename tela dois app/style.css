@@ -1,0 +1,86 @@
+*{
+    background-color: #FBFBFF;
+}
+#bemvindos{
+    position: absolute;
+    width: 300px;
+    left: 18px;
+    top: 110px;
+    font-weight: 900;
+    font-size: 64px;
+    text-align: center;
+    color: #0B8C8C;
+    height: 0;
+}
+#ham{
+    position: absolute;
+    left: 85px;
+    top: 244px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #20BF55;
+}
+#bur{
+    position: absolute;
+    left: 150px;
+    top: 244px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #0B4F6C;
+}
+#guer{
+    position: absolute;
+    left: 200px;
+    top: 244px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #01BAEF;
+}
+#bcadastro{
+    position: absolute;
+    width: 180px;
+    height: 38px;
+    left: 83px;
+    top: 480px;
+    background: #0B4F6C;
+    border-radius: 25px;
+    border: none;
+    display:inline-block;
+	cursor:pointer;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 23px;
+    text-align: center;
+    color: #FBFBFF;
+}
+#bentrar{
+    position: absolute;
+    width: 180px;
+    height: 38px;
+    left: 83px;
+    top: 423px;
+    background: #0B4F6C;
+    border-radius: 25px;
+    border: none;
+    display:inline-block;
+	cursor:pointer;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 23px;
+    text-align: center;
+    color: #FBFBFF;
+}
+#imgum{
+    position: absolute;
+    width: 200px;
+    height: 192.07px;
+    left: 280px;
+    top: 0px;
+}
+#imgdois{
+    position: absolute;
+    width: 200px;
+    height: 192.07px;
+    left: 0px;
+    top: 640px;
+}
