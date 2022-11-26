@@ -1,0 +1,122 @@
+*{
+    background-color: #FBFBFF;
+}
+#oi{
+    position: absolute;
+    width: 300px;
+    left: 28px;
+    top: 10px;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    color: #0B8C8C;
+}
+#ham{
+    position: absolute;
+    left: 85px;
+    top: 180px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #20BF55;
+}
+#bur{
+    position: absolute;
+    left: 164px;
+    top: 180px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #0B4F6C;
+}
+#guer{
+    position: absolute;
+    left: 215px;
+    top: 180px;
+    font-weight: 732;
+    font-size: 64px;
+    color: #01BAEF;
+}
+#nome{
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 70px;
+    top: 350px;
+    background: #dcdedf;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+}
+#celular{
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 70px;
+    top: 395px;
+    background: #dcdedf;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+}
+#email{
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 70px;
+    top: 440px;
+    background: #dcdedf;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+}
+#data{
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 70px;
+    top: 485px;
+    background: #dcdedf;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+}
+#check{
+    position: absolute;
+    left: 70px;
+    top: 525px;
+    background: #dcdedf;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+}
+#termo{
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 85px;
+    top: 510px;
+    border-radius: 25px;
+    color: #101011;
+    text-align: center;
+    border: none;
+    font-size: 15px;
+}
+#cadastrar{
+    position: absolute;
+    width: 150px;
+    height: 35px;
+    left: 120px;
+    top: 550px;
+    background: #0B4F6C;
+    border-radius: 25px;
+    color: #FBFBFF;
+    text-align: center;
+    border: none;
+    display:inline-block;
+	cursor:pointer;
+}
